@@ -22,10 +22,10 @@ Happy Coding! 💻✨
     <div class="container">
         <!-- Header Section -->
         <header id="header">
-My Web Page
+
         </header>
 
-        <!-- Introduction Section -->
+        
         <p class="intro">
             Hello and welcome to my web page. This is the introduction section of the site and provides a bit of information.
 </p>
